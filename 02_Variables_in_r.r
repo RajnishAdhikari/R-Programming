@@ -20,3 +20,19 @@ num1 <- 5
 num2 <- 10
 
 print(num1 + num2)
+
+# multiple vairables assignment one value 
+
+var1 <- var2 <- var3 <- "Orange"
+print(var1)
+print(var2)
+print(var3)
+
+
+
+
+# Variable Names 
+
+
+
+
